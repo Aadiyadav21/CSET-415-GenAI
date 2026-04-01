@@ -7,6 +7,7 @@ This repository contains a collection of hands-on lab experiments covering core 
 
 Each lab focuses on building practical intuition by implementing models and analyzing their outputs.
 
+🧪 Lab 1 – Medical Image Generation
 🎯 Objective
 
 To understand how pre-trained generative models can create synthetic medical images.
@@ -182,4 +183,4 @@ Generate sequences
 Generated text
 💡 Insight
 
-Transformers provide better context understanding
+Transformers provide better context understanding.
