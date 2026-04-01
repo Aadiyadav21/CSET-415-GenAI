@@ -5,21 +5,6 @@ This repository contains a collection of **hands-on lab experiments** covering c
 
 Each lab focuses on building practical intuition by implementing models and analyzing their outputs.
 
----
-
-## 📌 Table of Contents
-- Lab 1: Medical Image Generation (Stable Diffusion)  
-- Lab 2: GAN for Image Generation  
-- Lab 3: Variational Autoencoder (VAE)  
-- Lab 4: Text Generation (LSTM & Transformer)  
-- Lab 5: Image-to-Image Translation (CNN)  
-- Lab 6: Pix2Pix GAN  
-- Lab 7: Neural Style Transfer  
-- Lab 8: Artistic Image Generation (DCGAN)  
-- Lab 9: Sequence Generation  
-
----
-
 # 🧪 Lab 1 – Medical Image Generation  
 
 ## 🎯 Objective  
@@ -224,58 +209,4 @@ To generate text sequences using neural networks.
 ## 💡 Insight  
 Transformers provide **better context understanding**.
 
----
-
-# 🛠️ Tech Stack  
-
-- **Languages:** Python  
-- **Frameworks:** PyTorch, TensorFlow/Keras  
-- **Tools:** Google Colab  
-- **Libraries:** NumPy, Matplotlib, Hugging Face Diffusers  
-
----
-
-# 📈 Key Learnings  
-
-✔ Understanding of core Generative AI models  
-✔ Hands-on experience with GANs, VAEs, Transformers  
-✔ Difference between reconstruction vs adversarial learning  
-✔ Importance of latent space in generative models  
-✔ Practical implementation of real-world AI systems  
-
----
-
-# 🌟 Future Improvements  
-
-- Add diffusion models (advanced)  
-- Train on custom datasets  
-- Improve model performance  
-- Deploy models as web apps  
-
----
-
-# 📌 How to Run  
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/generative-ai-labs
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run notebooks
-jupyter notebook
-```
-
----
-
-# 🤝 Contribution  
-
-Feel free to fork, improve, and contribute to this repository.
-
----
-
-# 📜 License  
-
-This project is for academic and educational purposes.
 
